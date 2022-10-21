@@ -1,4 +1,4 @@
--- leaked by kazuha#9999
+-- Hood Modded Panel Source
 
 local R = game.Players.LocalPlayer;
 local b = game:GetService("RunService");
